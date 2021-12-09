@@ -1,9 +1,5 @@
 # NuxtJS (Vue.js) Starter Template
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![made-with-nuxt](https://img.shields.io/badge/Made%20with-nuxt-00c58e.svg)](https://nuxtjs.org)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 This is a starter template for NuxtJS (Vue.js) developers.
 
 ## What's in it?
@@ -116,26 +112,17 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ## Contributing
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
 
-## Contributors ✨
-
-Thanks goes to these people:
+## Contributor ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yoktav">
-        <img src="https://avatars.githubusercontent.com/u/44588992?v=3?s=100" width="100px;" alt="Yılmaz Oktav" /><br />
-        <sub><b>Yılmaz Oktav</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SisyphosGK">
-        <img src="https://avatars.githubusercontent.com/u/32563894?v=3?s=100" width="100px;" alt="Gürkan Köse" /><br />
-        <sub><b>Gürkan Köse</b></sub>
+      <a href="https://github.com/nichita-grgr">
+        <img src="https://avatars.githubusercontent.com/u/94919970?v=4" width="100px;" alt="Nichita Grigoriev" /><br />
+        <sub><b>Nichita Grigoriev</b></sub>
       </a>
     </td>
   </tr>
 </table>
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
